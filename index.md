@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=71knnyqg) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=71knnyqg).
 
 ### Jekyll Themes
 
